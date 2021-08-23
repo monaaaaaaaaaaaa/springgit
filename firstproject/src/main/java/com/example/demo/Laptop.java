@@ -12,6 +12,7 @@ public int getLid() {
 public void setLid(int lid) {
 	this.lid = lid;
 }
+//heyyy
 public String getBrand() {
 	return brand;
 }
